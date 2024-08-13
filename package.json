@@ -1,7 +1,7 @@
 {
-  "name": "@dv4ns/my-shared-components",
+  "name": "@dv4ns/ls-widget-test-1",
   "version": "1.0.0",
-  "main": "src/components/MyComponent.jsx",
+  "main": "src/components/ls-widget-test-1.jsx",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dv4ns/my-shared-components.git"
@@ -11,9 +11,9 @@
     "react-dom": "^17.0.2"
   },
   "bugs": {
-    "url": "https://github.com/dv4ns/my-shared-components/issues"
+    "url": "https://github.com/dv4ns/ls-widget-test-1/issues"
   },
-  "homepage": "https://github.com/dv4ns/my-shared-components#readme",
+  "homepage": "https://github.com/dv4ns/ls-widget-test-1#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
